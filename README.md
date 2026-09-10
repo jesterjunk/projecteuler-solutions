@@ -1,3 +1,5 @@
+This repository is a mirror of https://github.com/lucky-bai/projecteuler-solutions
+
 **Warning - This site contains spoilers. Please close this page immediately if you wish to solve the problems yourself.**
 
 * **Solutions**: https://github.com/lucky-bai/projecteuler-solutions/blob/master/Solutions.md
